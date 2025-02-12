@@ -308,5 +308,5 @@ int main() {
                 break;
         }
     } while (true);
-    return;
+    return 0;
 }
